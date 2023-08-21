@@ -1,0 +1,80 @@
+export const data = [
+  {
+    id: 1,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 2,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 3,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 4,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 5,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 6,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 7,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 8,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 9,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 10,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 11,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 12,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+  {
+    id: 13,
+    img: "https://www.themoviedb.org/t/p/w220_and_h330_face/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+    title: "title one",
+    runtime: "125 min",
+  },
+];
